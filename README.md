@@ -39,7 +39,6 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-<!--
 
 Here are some ideas to get you started:
 
@@ -51,4 +50,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
