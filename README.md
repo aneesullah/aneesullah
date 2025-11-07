@@ -1,53 +1,94 @@
-# Hi, I'm ANEES ULLAH! 👋
+# Hi, I'm Dr. Anees Ullah! 👋
 
-I am a passionate engineer, inovative researcher, motivating teacher, and life-long learner. My love for seeing through the process of algorithms to hardware mapping has shaped my journey till day. 
+**PhD in Computer Engineering** | Assistant Professor | VLSI & FPGA Design Specialist | Hardware-Software Co-design Researcher
+
+I am a passionate engineer, innovative researcher, motivating teacher, and life-long learner. My love for understanding the complete journey from algorithms to hardware implementation has shaped my academic and research career.
 
 ![aneesullah's Stats](https://github-readme-stats.vercel.app/api?username=aneesullah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
+## 🎓 Academic Profile
 
-- 🔭 I'm currently working as an Assistant Professor of Electronics Engineering at University of Engineering and Technology, Peshawar, Pakistan. I teach VLSI and FPGA design courses. 
-- 📝 I have worked 
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+**Current Position:** Assistant Professor of Electronics Engineering
+**Institution:** University of Engineering and Technology, Peshawar, Pakistan
+**Specialization:** VLSI Design, FPGA-based Systems, Digital System Design
 
-## My Articles
+## 🔬 Research Interests
+
+- **VLSI Design & Optimization** - Low-power circuit design, ASIC design methodologies
+- **FPGA Architecture & Applications** - High-performance computing on reconfigurable platforms
+- **Hardware Acceleration** - Algorithm-to-hardware mapping and optimization
+- **Digital Signal Processing** - Real-time DSP implementations on FPGAs
+- **Computer Architecture** - Microprocessor design and embedded systems
+- **Hardware-Software Co-design** - System-level optimization and design space exploration
+
+## 💻 Technical Expertise
+
+### Hardware Design & Tools
+![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=v&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logo=v&logoColor=white)
+
+**EDA Tools:** Xilinx Vivado, Intel Quartus Prime, Cadence, Synopsys Design Compiler, ModelSim
+**FPGA Platforms:** Xilinx (Zynq, Artix, Kintex, Virtex), Intel (Cyclone, Arria, Stratix)
+**Design Skills:** RTL Design, Logic Synthesis, Timing Analysis, DFT, Physical Design
+
+### Programming & Scripting
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Additional Skills:** Embedded C, Assembly, TCL scripting, Linux/Unix, Version Control (Git)
+
+## 👨‍🏫 Teaching Experience
+
+I teach advanced courses in digital design and computer engineering:
+- **VLSI Design** - CMOS circuit design, layout, and fabrication
+- **FPGA Design & Applications** - HDL programming, design implementation, and optimization
+- **Digital System Design** - Sequential and combinational logic, FSM design
+- **Computer Architecture** - Processor design, memory hierarchy, pipeline architecture
+
+## 🌐 Knowledge Sharing
+
+Beyond hardware design, I'm passionate about making complex technical concepts accessible:
+- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/)
+- ✍️ Technical Writer at [freeCodeCamp](https://www.freecodecamp.org/)
+
+### Featured Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
+## 🚀 Current Research & Projects
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- 🔭 Investigating novel FPGA architectures for AI/ML acceleration
+- 💡 Developing energy-efficient hardware implementations for edge computing
+- 🛠️ Creating open-source HDL libraries and design templates for education
+- 📊 Working on algorithm-hardware co-optimization for signal processing applications
 
-## 🌱 Currently Exploring
+## 🏆 Academic Achievements
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🎓 **PhD in Computer Engineering** - Advanced research in VLSI and reconfigurable computing
+- 📚 Published research in peer-reviewed international journals and conferences
+- 🏅 Active reviewer for IEEE and other prestigious technical publications
+- 🌟 Completed Hacktoberfest 2023 - Contributing to open-source hardware/software projects
+- 👥 Supervising graduate students in hardware design and computer engineering projects
 
-## 🏆 Achievements
+## 🤝 Collaboration & Consultation
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
+I'm always interested in:
+- 👯 Collaborative research in VLSI, FPGA, and hardware acceleration
+- 🎯 Industry-academia partnerships for hardware design projects
+- 📖 Open-source hardware initiatives and educational resources
+- 💼 Consulting on FPGA-based system design and optimization
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- 🐦 Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- 📝 Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- 💌 Open to research collaborations, speaking engagements, and consulting opportunities
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+---
 
+Thanks for visiting! Whether you're a student, researcher, or industry professional, I'd love to connect and explore the fascinating intersection of algorithms and hardware together. 🚀
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*"From algorithms to silicon - bridging the gap between software and hardware"*
 
